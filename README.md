@@ -5,6 +5,9 @@ Swords and Shovels is a simple dungeon crawler game with a moody theme. Player m
 ### Dungeon
 ![](https://github.com/hoonman/swords_and_shovels/blob/main/misc/dungeon.png)
 
+### Start Screen
+![]()
+
 ### Player Movement
 ![](https://github.com/hoonman/swords_and_shovels/blob/main/misc/playerMovement.gif)
 
